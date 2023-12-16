@@ -1,0 +1,7 @@
+
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+l
+java:S1450"VRemove the "cliente" field and declare it as a local variable in the relevant methods.(Ó…ß®
+D
+java:S1068"/Remove this unused "mapaCliente" private field.(õÚóD

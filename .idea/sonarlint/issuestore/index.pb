@@ -1,0 +1,23 @@
+
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+_
+/src/test/java/br/com/example/app/SmokeTest.java,d\1\d17125a1edfa88ae9f0b3b2f8ed27fd50a4029e4
+c
+3src/main/java/br/com/example/app/model/Cliente.java,9\a\9ac59a6efad47d540f2dcd5801c3b0a64604594a
+j
+:src/main/java/br/com/example/app/loader/ClienteLoader.java,4\9\4917a936ff80d09c7f8c41aa410a78ab10aafd0f
+b
+2src/main/java/br/com/example/app/desafios/Bar.java,0\a\0a39694163065b9671e88f0b5b6769986f7e493a
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+g
+7src/test/java/br/com/example/app/contract/TestBase.java,e\7\e70b32b3d733691ec4c854360cd685dac1c6b13d
+j
+:src/test/java/br/com/example/app/contract/ClienteTest.java,5\7\570ddb8163c4dc80d46e32a8bf6a915c688c7552
+e
+5src/test/java/br/com/example/app/NumeroPrimoTest.java,a\9\a904b97cccf07adc21bd0c843febe7e079294850
+j
+:src/main/java/br/com/example/app/desafios/NumeroPrimo.java,6\0\60f36f54f059476806dd20be2f4e4da703ba874d
+h
+8src/main/java/br/com/example/app/ClienteApplication.java,4\3\43d9dd585df68a22e47d5db6ca8af1c8730842d4
