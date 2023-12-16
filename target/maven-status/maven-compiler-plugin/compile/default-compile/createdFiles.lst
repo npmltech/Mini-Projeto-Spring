@@ -1,8 +1,0 @@
-br\com\example\app\ClienteApplication.class
-br\com\example\app\loader\ClienteLoader.class
-br\com\example\app\service\ClienteService.class
-br\com\example\app\desafios\NumeroPrimo.class
-br\com\example\app\controller\ClienteController.class
-br\com\example\app\desafios\Bar.class
-br\com\example\app\model\Cliente.class
-br\com\example\app\exception\NumDocumentoException.class
