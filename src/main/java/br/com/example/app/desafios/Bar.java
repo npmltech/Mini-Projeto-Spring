@@ -1,5 +1,7 @@
 package br.com.example.app.desafios;
 
+import static java.lang.System.out;
+
 public class Bar {
 
     public static final String UMA_CERVEJA = "hansa";
@@ -65,6 +67,6 @@ public class Bar {
     }
 
     public static void main(String[] args) {
-        System.out.println(new Bar().calculaCusto(UMA_CERVEJA, true, 2));
+        out.println("\n" + new Bar().calculaCusto(UMA_CERVEJA, true, 2));
     }
 }

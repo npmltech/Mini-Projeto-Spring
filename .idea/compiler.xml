@@ -7,17 +7,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="JavaAppExampleWithTests" />
+        <module name="Mini-Projeto-Spring" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="JavaAppExample" target="17" />
-    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="JavaAppExample" options="-parameters" />
-      <module name="JavaAppExampleWithTests" options="-parameters" />
+      <module name="Mini-Projeto-Spring" options="-parameters" />
     </option>
   </component>
 </project>

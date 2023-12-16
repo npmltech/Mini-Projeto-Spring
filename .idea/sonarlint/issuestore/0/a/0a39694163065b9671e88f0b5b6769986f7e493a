@@ -1,26 +1,26 @@
 
-g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ýô§¿üÿÿÿÿ8È×ªñÆ1
-g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(§Ò„òøÿÿÿÿ8Ê×ªñÆ1
-Y
-java:S4973"<Strings and Boxed types should be compared using "equals()".(¯óï’8Í×ªñÆ1
-Y
-java:S4973"<Strings and Boxed types should be compared using "equals()".(¯óï’8Í×ªñÆ1
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ýô§¿üÿÿÿÿ
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(§Ò„òøÿÿÿÿ
+R
+java:S4973"<Strings and Boxed types should be compared using "equals()".(¯óï’
+R
+java:S4973"<Strings and Boxed types should be compared using "equals()".(¯óï’
+W
+java:S4973!"<Strings and Boxed types should be compared using "equals()".(Á‡ÝÒùÿÿÿÿ
+W
+java:S4973!"<Strings and Boxed types should be compared using "equals()".(Á‡ÝÒùÿÿÿÿ
 ^
-java:S4973"<Strings and Boxed types should be compared using "equals()".(Á‡ÝÒùÿÿÿÿ8Î×ªñÆ1
-^
-java:S4973"<Strings and Boxed types should be compared using "equals()".(Á‡ÝÒùÿÿÿÿ8Î×ªñÆ1
-^
-java:S4973"<Strings and Boxed types should be compared using "equals()".(Á‡ÝÒùÿÿÿÿ8Î×ªñÆ1
+java:S4973!"<Strings and Boxed types should be compared using "equals()".(Á‡ÝÒùÿÿÿÿ8»ÿ“¥Ç1
+L	java:S106"+Replace this use of System.out by a logger.(“×·ôþÿÿÿÿ8Ûÿ“¥Ç1
 V
-java:S3400'"9Remove this method and declare a constant for this value.(¬éÆµ8—ØªñÆ1
+java:S3400)"9Remove this method and declare a constant for this value.(¬éÆµ8ìÿ“¥Ç1
 [
-java:S3400,"9Remove this method and declare a constant for this value.(ˆæÌ¥ÿÿÿÿÿ8˜ØªñÆ1
+java:S3400."9Remove this method and declare a constant for this value.(ˆæÌ¥ÿÿÿÿÿ8íÿ“¥Ç1
 [
-java:S34001"9Remove this method and declare a constant for this value.(ˆæÌ¥ÿÿÿÿÿ8™ØªñÆ1
+java:S34003"9Remove this method and declare a constant for this value.(ˆæÌ¥ÿÿÿÿÿ8îÿ“¥Ç1
 [
-java:S34006"9Remove this method and declare a constant for this value.(ˆæÌ¥ÿÿÿÿÿ8›ØªñÆ1
+java:S34008"9Remove this method and declare a constant for this value.(ˆæÌ¥ÿÿÿÿÿ8ïÿ“¥Ç1
 V
-java:S3400;"9Remove this method and declare a constant for this value.(ÐÝ¶¯8œØªñÆ1
+java:S3400="9Remove this method and declare a constant for this value.(ÐÝ¶¯8ðÿ“¥Ç1
 [
-java:S3400@"9Remove this method and declare a constant for this value.(Áì¤úÿÿÿÿÿ8ØªñÆ1
-L	java:S106D"+Replace this use of System.out by a logger.(Åá§ßýÿÿÿÿ8 ØªñÆ1
+java:S3400B"9Remove this method and declare a constant for this value.(Áì¤úÿÿÿÿÿ8òÿ“¥Ç1

@@ -9,8 +9,9 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.Collection;
 
+// @RequestMapping("/api/v1/clientes")
 @RestController
-@RequestMapping("/api/v1/clientes")
+@RequestMapping("/")
 public class ClienteController {
 
     @Autowired
