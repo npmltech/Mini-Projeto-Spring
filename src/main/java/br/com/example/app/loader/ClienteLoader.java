@@ -20,6 +20,10 @@ import java.util.Map;
 @Component
 public class ClienteLoader implements ApplicationRunner {
 
+    private static final String WIN_PATH = "\\files\\clientes.txt";
+    private static final String LINUX_PATH = "/files/clientes.txt";
+    private static final String OS = System.getProperty("os.name");
+
     private Cliente cliente;
     private String[] campos;
     private final Map<Long, Cliente> mapaCliente;
@@ -32,6 +36,10 @@ public class ClienteLoader implements ApplicationRunner {
         this.campos = new String[0];
     }
 
+    private String devolveDirPorSisOperacional() {
+        return OS.contains("win") ? WIN_PATH : LINUX_PATH;
+    }
+
     @Override
     public void run(ApplicationArguments args) throws Exception {
         Path resourceMainDir = Paths.get("src", "main", "resources");
@@ -39,7 +47,7 @@ public class ClienteLoader implements ApplicationRunner {
 
         try (BufferedReader leitura = new BufferedReader(
             new FileReader(
-                absolutePath.concat("\\files\\clientes.txt"),
+                absolutePath.concat(devolveDirPorSisOperacional()),
                 StandardCharsets.UTF_8
             )
         )) {

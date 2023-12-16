@@ -1,7 +1,9 @@
 
-X
-java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
-l
-java:S1450"VRemove the "cliente" field and declare it as a local variable in the relevant methods.(Ó…ß®
-D
-java:S1068"/Remove this unused "mapaCliente" private field.(õÚóD
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8Ô²ô›Ç1
+s
+java:S1450"VRemove the "cliente" field and declare it as a local variable in the relevant methods.(Ó…ß®8Õ²ô›Ç1
+c
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(åŒ£ıùÿÿÿÿ8Œö›Ç1
+K
+java:S1068"/Remove this unused "mapaCliente" private field.(õÚóD8İ²ô›Ç1
